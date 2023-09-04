@@ -1,7 +1,0 @@
-{
-    "editor.mouseWheelZoom": true,
-    "notebook.output.wordWrap": false,
-    "editor.wordWrap": "on",
-    "debug.console.wordWrap": false,
-    "editor.formatOnSave": true
-}
